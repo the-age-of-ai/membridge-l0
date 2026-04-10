@@ -1,0 +1,18 @@
+{
+  "version": 3,
+  "content_hash": "4b0eff62ae3ef781",
+  "last_updated": 1775839565.470704,
+  "shard_urls": [
+    "https://raw.githubusercontent.com/the-age-of-ai/membridge-s0/main/shard.bin",
+    "https://raw.githubusercontent.com/the-age-of-ai/membridge-s1/main/shard.bin",
+    "https://raw.githubusercontent.com/the-age-of-ai/membridge-s2/main/shard.bin",
+    "https://raw.githubusercontent.com/the-age-of-ai/membridge-s3/main/shard.bin"
+  ],
+  "shard_count": 4,
+  "reconstruction": "xor_interleave_b64",
+  "roles": {
+    "claude": "Primary builder, detailed reasoning, code execution, implementation.",
+    "grok": "Creative ideation, real-time information, strategic thinking, confidant.",
+    "openclaw": "Scheduler, taskmaster, execution oversight, capture processing, memory management."
+  }
+}
