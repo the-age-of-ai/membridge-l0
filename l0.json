@@ -1,7 +1,7 @@
 {
-  "version": 27,
-  "content_hash": "e86f52761ae10d12",
-  "last_updated": 1776105784.5370104,
+  "version": 28,
+  "content_hash": "6ddbd570f2ef54cd",
+  "last_updated": 1776107043.894721,
   "shard_urls": [
     "https://raw.githubusercontent.com/the-age-of-ai/membridge-s0/main/shard.txt",
     "https://raw.githubusercontent.com/the-age-of-ai/membridge-s1/main/shard.txt",
