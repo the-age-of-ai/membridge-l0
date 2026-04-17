@@ -1,7 +1,7 @@
 {
-  "version": 33,
+  "version": 34,
   "content_hash": "a74811cdff579379",
-  "last_updated": 1776394748.2064226,
+  "last_updated": 1776417643.1094246,
   "shard_urls": [
     "https://raw.githubusercontent.com/the-age-of-ai/johnny-s0/main/shard.txt",
     "https://raw.githubusercontent.com/the-age-of-ai/johnny-s1/main/shard.txt",
