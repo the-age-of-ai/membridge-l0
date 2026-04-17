@@ -1,12 +1,12 @@
 {
-  "version": 30,
+  "version": 31,
   "content_hash": "a74811cdff579379",
-  "last_updated": 1776110583.3049448,
+  "last_updated": 1776394333.9210129,
   "shard_urls": [
-    "https://raw.githubusercontent.com/the-age-of-ai/membridge-s0/main/shard.txt",
-    "https://raw.githubusercontent.com/the-age-of-ai/membridge-s1/main/shard.txt",
-    "https://raw.githubusercontent.com/the-age-of-ai/membridge-s2/main/shard.txt",
-    "https://raw.githubusercontent.com/the-age-of-ai/membridge-s3/main/shard.txt"
+    "https://raw.githubusercontent.com/the-age-of-ai/johnny-s0/main/shard.txt",
+    "https://raw.githubusercontent.com/the-age-of-ai/johnny-s1/main/shard.txt",
+    "https://raw.githubusercontent.com/the-age-of-ai/johnny-s2/main/shard.txt",
+    "https://raw.githubusercontent.com/the-age-of-ai/johnny-s3/main/shard.txt"
   ],
   "shard_count": 4,
   "reconstruction": "xor_interleave_b64",
